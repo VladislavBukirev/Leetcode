@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-public class RomanToArabic 
+public class RomanToArabicTask
 {
     public static int RomanToInt(string s)
     {
@@ -57,13 +57,13 @@ public class RomanToArabicTests
     [Test]
     public void TestRomanToInt()
     {
-        Assert.AreEqual(3, RomanToArabic.RomanToInt("III"));
-        Assert.AreEqual(13, RomanToArabic.RomanToInt("XIII"));
-        Assert.AreEqual(39, RomanToArabic.RomanToInt("XXXIX"));
-        Assert.AreEqual(58, RomanToArabic.RomanToInt("LVIII")); 
-        Assert.AreEqual(59, RomanToArabic.RomanToInt("LIX")); 
-        Assert.AreEqual(64, RomanToArabic.RomanToInt("LXIV"));
-        Assert.AreEqual(69, RomanToArabic.RomanToInt("LXIX"));
-        Assert.AreEqual(1994, RomanToArabic.RomanToInt("MCMXCIV"));
+        Assert.AreEqual(3, RomanToArabicTask.RomanToInt("III"));
+        Assert.AreEqual(13, RomanToArabicTask.RomanToInt("XIII"));
+        Assert.AreEqual(39, RomanToArabicTask.RomanToInt("XXXIX"));
+        Assert.AreEqual(58, RomanToArabicTask.RomanToInt("LVIII")); 
+        Assert.AreEqual(59, RomanToArabicTask.RomanToInt("LIX")); 
+        Assert.AreEqual(64, RomanToArabicTask.RomanToInt("LXIV"));
+        Assert.AreEqual(69, RomanToArabicTask.RomanToInt("LXIX"));
+        Assert.AreEqual(1994, RomanToArabicTask.RomanToInt("MCMXCIV"));
     }
 }
