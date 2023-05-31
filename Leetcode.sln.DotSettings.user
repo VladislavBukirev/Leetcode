@@ -7,6 +7,8 @@
     &lt;TestId&gt;NUnit3x::EC270766-A6C9-4595-98C2-F8D2B104A6D8::net6.0::UndergroundSystemTests.TestUndergroundSystemFirst&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::EC270766-A6C9-4595-98C2-F8D2B104A6D8::net6.0::UndergroundSystemTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::EC270766-A6C9-4595-98C2-F8D2B104A6D8::net6.0::LongestSubstringWithoutRepeatingCharactersTest.TestLongestSubstringWithoutRepeatingCharacters&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC270766-A6C9-4595-98C2-F8D2B104A6D8::net6.0::Leetcode.ValidParenthesesTest.TestValidParentheses&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC270766-A6C9-4595-98C2-F8D2B104A6D8::net6.0::Leetcode.ValidParenthesesTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69c41b53_002D0ca6_002D4e5a_002D99e3_002D0687642a6326/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestRomanToInt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
