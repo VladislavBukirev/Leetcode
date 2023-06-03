@@ -13,6 +13,6 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69c41b53_002D0ca6_002D4e5a_002D99e3_002D0687642a6326/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestRomanToInt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::EC270766-A6C9-4595-98C2-F8D2B104A6D8::net6.0::FindMedianSortedArraysTests.TestFindMedianSortedArrays&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC270766-A6C9-4595-98C2-F8D2B104A6D8::net6.0::SolutionTests.TestSolution&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
