@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-public class Solution 
+public class MiniNumberOperationsTask 
 {
     public int MinNumberOperations(int[] target)
     {
@@ -16,9 +16,9 @@ public class Solution
 public class SolutionTests
 {
     [Test]
-    public void TestSolution()
+    public void MiniNumberOperationsTests()
     {
-        var solutionInstance = new Solution();
+        var solutionInstance = new MiniNumberOperationsTask();
         var target1 = new[] { 1, 2, 3, 2, 1 };
         var res1 = solutionInstance.MinNumberOperations(target1);
         Assert.AreEqual(3, res1);
